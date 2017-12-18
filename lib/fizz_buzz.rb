@@ -1,8 +1,8 @@
 # lib/fizz_buzz.rb
 
 def fizz_buzz(number)
-  if number.is_a? String
-    'Error 666, Please insert a number'
+  if (number.is_a? String) || (number < 0)
+    'Error 666, Please insert a number above 0.'
   elsif number % 15 == 0
     'fizz_buzz'
   elsif number % 5 == 0
