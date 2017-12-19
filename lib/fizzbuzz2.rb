@@ -1,4 +1,4 @@
-# lib/fizzbuzz2.rb  
+
 
 def fizz_buzz(number)
   case
