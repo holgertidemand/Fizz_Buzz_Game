@@ -1,6 +1,5 @@
 require './lib/fizzbuzz_class.rb'
 
-
 describe FizzBuzz do
 
   it 'returns 1 if number is 1' do

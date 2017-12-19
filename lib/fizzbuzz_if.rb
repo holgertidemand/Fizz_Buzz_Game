@@ -1,4 +1,4 @@
-# lib/fizz_buzz.rb
+# lib/fizzbuzz_if.rb
 
 def fizz_buzz(number)
   if (number.is_a? String) || (number < 0)

@@ -1,3 +1,5 @@
+# fizzbuzz_class.rb
+
 class FizzBuzz
 
   def fizz_buzz(number)
